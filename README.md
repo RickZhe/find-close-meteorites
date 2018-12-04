@@ -6,6 +6,10 @@ demo learning python from acloud
 This project requires python3 and requests packages.
     python3 find_meteors.py
 
+## install pip3 for linux
+    sudo apt-get install python3-pip
+    pip3 install pipenv
+
 ## Package Requirement in pipenv
 Install pipenv to have exact match package to run this script.
     pip3 install pipenv
