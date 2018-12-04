@@ -11,8 +11,12 @@ This project requires python3 and requests packages.
     pip3 install pipenv
 
 ## Package Requirement in pipenv
-Install pipenv to have exact match package to run this script.
+    Install pipenv to have exact match package to run this script.
     pip3 install pipenv
+
+## Set the current pipenv to python3.7
+    pipenv --three
+
 
 ## run the script to see if any error generate and install the required package in pipenv
 
